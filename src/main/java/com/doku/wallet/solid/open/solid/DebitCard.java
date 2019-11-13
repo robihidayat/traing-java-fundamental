@@ -7,6 +7,6 @@ public class DebitCard implements InterfacePayment {
 
     @Override
     public void payment() {
-
+        Test test = new Test();
     }
 }

@@ -5,7 +5,7 @@ package com.doku.wallet.enums;
  */
 public enum  Custom {
 
-    SUCCESS("GOOD", "0000"),
+    SUCCESS("SUCCESS", "0000"),
     FAILED("NO", "9999");
 
     private String name;
