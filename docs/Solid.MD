@@ -20,11 +20,13 @@ just look example.
 
 ### Open-Close
 uncle bob said:"Software components should be open for extension, but closed for modification"
+the simple way to imagine that principle is electric plug.
+
 
 
 ### Liskov substitution segregation 
 uncle bob said:"Derived types must be completely substitutable for their base types";
-
+it's like if duck is subtype of bird so duck must have to be able to fly. 
 
 
 ### Interface segregation  

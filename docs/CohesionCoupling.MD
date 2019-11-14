@@ -1,5 +1,6 @@
 ## High Cohesion dan Low Coupling
 
+engineer, techops, hr, care.  
 
 #### cohesion
 

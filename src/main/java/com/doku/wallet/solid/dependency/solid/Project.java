@@ -14,6 +14,6 @@ public class Project {
     }
 
     public void implement() {
-        developers.forEach(d->d.develop());
+        developers.forEach(Developer::develop);
     }
 }
